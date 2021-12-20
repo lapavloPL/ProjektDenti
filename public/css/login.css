@@ -1,0 +1,32 @@
+.btn-color{
+    background-color: #0e1c36;
+    color: #fff;
+
+  }
+
+  .logodenti{
+    height: 90px;
+    width: 300px;
+    margin-bottom: 20px;
+  }
+
+  .cardbody-color{
+    background-color: #ebf2fa;
+  }
+
+  a{
+    text-decoration: none;
+  }
+
+  body {
+    background-color: #489da8;
+  }
+.space{
+    padding-top: 15px;
+}
+
+.listapacjentowtitle{
+    font-size: 20px;
+    padding-top: 10px;
+    margin-left: 10px;
+}

@@ -1,0 +1,38 @@
+body {
+    background: #489da8;
+  }
+
+  .btn-color{
+    background-color: #15373f;
+    color: #fff;
+
+  }
+
+
+  .logodenti {
+    width: 300px;
+    height: 85px;
+    margin-top: 5px;
+    margin-bottom: 25px;
+
+  }
+
+
+  .cardbody-color{
+    background-color: #ebf2fa;
+
+  }
+
+  a{
+    text-decoration: none;
+  }
+
+  .input[type=date] {
+    text-align: right;
+  }
+
+  .input[type="date"]:before {
+    color: lightgrey;
+    content: attr(placeholder) !important;
+    margin-right: 0.5em;
+  }
